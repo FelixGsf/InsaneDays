@@ -6,5 +6,13 @@
         "author": "insaneTeam",
         "fileName": "freeXpansion.zip",
         "updated": "FreePlay bonusSongs"
+    },
+      {
+        "link": "https://github.com/FelixGsf/AddonLists/releases/download/W1BS/BSW1.zip",
+        "modpack": "Better W1 Shaders",
+        "logo": "https://raw.githubusercontent.com/Felixelpapu25/insaneVersion/main/expasion.png",
+        "author": "insaneTeam",
+        "fileName": "BSW1",
+        "updated": "BSW"
     }
 ]
