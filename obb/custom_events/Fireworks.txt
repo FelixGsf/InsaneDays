@@ -1,0 +1,8 @@
+color list
+(red,blue,green,pink)
+value1 = fireworks position "x"
+value2 = color
+
+D sides fireWorks event recreation by
+felixGSF
+

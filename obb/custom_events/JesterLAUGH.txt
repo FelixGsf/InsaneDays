@@ -1,0 +1,6 @@
+JESTER LAUGHSSSS
+
+V1: "ahora" (to activate jester laughing), "adio" (to remove jester laughing), 
+    "intermedio", (To put Jester back if you have already put him there previously)
+
+V2: nothing
