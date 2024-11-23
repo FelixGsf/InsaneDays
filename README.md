@@ -34,3 +34,8 @@ Este Mod usa 'PSYCH ENGINE 0.6.3' asi que si quieres compilar el codigo usa las 
 de modificar el codigo fuente
 
 * gender swarp: si eres mujer puedes activar esta opcion y jugar con mari en vez de felix
+
+# NUEVAS FUNCIONES Y VARIABLES PARA LUA:
+
+* isFemale: esto por si GenderSwarp esta encendido
+* getWeekCompleted('week_name'): esto verifica si una week ya fue completada!
