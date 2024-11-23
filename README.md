@@ -30,7 +30,7 @@ Este Mod usa 'PSYCH ENGINE 0.6.3' asi que si quieres compilar el codigo usa las 
 
 # OPCIONES NUEVAS:
 
--Este mod añade nuevas opciones completamente programadas en 'lua' asi que puedes modificarlas a tu gusto sin necesidad
+* Este mod añade nuevas opciones completamente programadas en 'lua' asi que puedes modificarlas a tu gusto sin necesidad
 de modificar el codigo fuente
 
--gender swarp: si eres mujer puedes activar esta opcion y jugar con mari en vez de felix
+* gender swarp: si eres mujer puedes activar esta opcion y jugar con mari en vez de felix
