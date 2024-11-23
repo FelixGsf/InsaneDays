@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-40
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sky idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-37
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sky left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				-60
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sky down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-21
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sky up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-41
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sky right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-4,
+				-40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "ajam",
+			"loop": false,
+			"name": "sky stare"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fresaRework",
+	"position": [
+		0,
+		120
+	],
+	"healthicon": "fresa",
+	"flip_x": false,
+	"healthbar_colors": [
+		86,
+		50,
+		105
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4.5,
+	"scale": 1
+}

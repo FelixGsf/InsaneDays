@@ -1,0 +1,176 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "FelixIdle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-30
+			],
+			"anim": "Reaccion",
+			"fps": 24,
+			"name": "Reaccion",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-4,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "animation",
+			"indices": [],
+			"name": "AnimationHey"
+		},
+		{
+			"offsets": [
+				-4,
+				-29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "Reaccion"
+		},
+		{
+			"offsets": [
+				-4,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Reaccion"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-30
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "FelixRight",
+			"indices": [
+				0,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-19
+			],
+			"anim": "singLEFT",
+			"fps": 15,
+			"name": "FelixLeft",
+			"indices": [
+				0,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				1
+			],
+			"anim": "singUP",
+			"fps": 15,
+			"name": "FelixUp",
+			"indices": [
+				0,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"offsets": [
+				18,
+				-80
+			],
+			"indices": [
+				0,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"fps": 15,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "FelixDown"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/felix_sarixNew",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "felixR",
+	"flip_x": true,
+	"healthbar_colors": [
+		128,
+		0,
+		0
+	],
+	"camera_position": [
+		230,
+		-10
+	],
+	"sing_duration": 4.40000000000001,
+	"scale": 1.5
+}

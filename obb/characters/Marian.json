@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Mari_sister idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				40
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Mari_sister left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				-16
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Mari_sister down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				27
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Mari_sister up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Mari_sister right0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Mari_sister",
+	"position": [
+		0,
+		390
+	],
+	"healthicon": "sisterN",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		196,
+		182
+	],
+	"camera_position": [
+		-220,
+		-330
+	],
+	"sing_duration": 6.1,
+	"scale": 6.1
+}

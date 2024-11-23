@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sisterERROR idle"
+		},
+		{
+			"offsets": [
+				140,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sisterERROR left"
+		},
+		{
+			"offsets": [
+				-110,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sisterERROR down"
+		},
+		{
+			"offsets": [
+				0,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sisterERROR up"
+		},
+		{
+			"offsets": [
+				-60,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sisterERROR right"
+		},
+		{
+			"offsets": [
+				101,
+				91
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scream",
+			"indices": [],
+			"name": "sisterERROR scream"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/sisterERROR",
+	"position": [
+		80,
+		140
+	],
+	"healthicon": "sister-bug",
+	"flip_x": false,
+	"healthbar_colors": [
+		45,
+		45,
+		45
+	],
+	"camera_position": [
+		-400,
+		-660
+	],
+	"sing_duration": 4.40000000000001,
+	"scale": 9.89999999999999
+}

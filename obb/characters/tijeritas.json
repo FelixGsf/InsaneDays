@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-190
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SKIDIDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				-147
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SKIDLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				-100
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SKIDDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-70
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SKIDUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				107,
+				-178
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SKIDRIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "BackGrounds/W12/images/tijeritas",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "huefano",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		209,
+		127
+	],
+	"camera_position": [
+		-140,
+		130
+	],
+	"sing_duration": 4.30000000000001,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "mariPixelP1 idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "mariPixelP1 left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-7
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "mariPixelP1 down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "mariPixelP1 up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "mariPixelP1 right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/mariPixelP1",
+	"position": [
+		160,
+		400
+	],
+	"healthicon": "mari",
+	"flip_x": true,
+	"healthbar_colors": [
+		74,
+		167,
+		225
+	],
+	"camera_position": [
+		240,
+		-160
+	],
+	"sing_duration": 4.20000000000001,
+	"scale": 6.00000000000001
+}

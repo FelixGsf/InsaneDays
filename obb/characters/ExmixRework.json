@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Exmix Idle Dance"
+		},
+		{
+			"offsets": [
+				-214,
+				-149
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Exmix Note Down"
+		},
+		{
+			"offsets": [
+				-202,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Exmix Note Up"
+		},
+		{
+			"offsets": [
+				41,
+				-105
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Exmix Note Left"
+		},
+		{
+			"offsets": [
+				-176,
+				-105
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Exmix Note Right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/ExmixRework",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "exmix",
+	"flip_x": false,
+	"healthbar_colors": [
+		96,
+		20,
+		57
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4.8,
+	"scale": 1
+}

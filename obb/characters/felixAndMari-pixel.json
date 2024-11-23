@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "pixel-fxAndmari idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "pixel-fxAndmari left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-13
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "pixel-fxAndmari down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "pixel-fxAndmari up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "pixel-fxAndmari right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/pixel-fxANDmari",
+	"position": [
+		270,
+		290
+	],
+	"healthicon": "pixelfx",
+	"flip_x": true,
+	"healthbar_colors": [
+		156,
+		0,
+		0
+	],
+	"camera_position": [
+		410,
+		-110
+	],
+	"sing_duration": 4.30000000000001,
+	"scale": 6
+}

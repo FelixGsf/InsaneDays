@@ -1,0 +1,117 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sister Idle Dance"
+		},
+		{
+			"offsets": [
+				-67,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sister Note DOWN"
+		},
+		{
+			"offsets": [
+				40,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sister Note UP"
+		},
+		{
+			"offsets": [
+				7,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "charge",
+			"indices": [],
+			"name": "sister Charge ANIMATION"
+		},
+		{
+			"offsets": [
+				53,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sister Note RIGHT"
+		},
+		{
+			"offsets": [
+				-2,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sister Note LEFT"
+		},
+		{
+			"offsets": [
+				-1,
+				-23
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"fps": 24,
+			"anim": "Shot",
+			"loop": false,
+			"name": "hey"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sisterN",
+	"position": [
+		0,
+		170
+	],
+	"healthicon": "luisa",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		96,
+		54
+	],
+	"camera_position": [
+		-210,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

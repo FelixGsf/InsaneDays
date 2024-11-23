@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shield",
+			"indices": [],
+			"name": "felixPixel shield"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "felixPixel idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				78,
+				8
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				8
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				91
+			],
+			"anim": "singUP",
+			"fps": 22,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 23,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "Hey"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/FelixPixel",
+	"position": [
+		0,
+		410
+	],
+	"healthicon": "pixelfx",
+	"flip_x": true,
+	"healthbar_colors": [
+		156,
+		0,
+		0
+	],
+	"camera_position": [
+		210,
+		-220
+	],
+	"sing_duration": 5.1,
+	"scale": 6.79999999999999
+}

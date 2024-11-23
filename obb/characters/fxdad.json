@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Dad Idle"
+		},
+		{
+			"offsets": [
+				5,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-2,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "dad Up"
+		},
+		{
+			"offsets": [
+				2,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-4,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/felixDad",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dadfx",
+	"flip_x": false,
+	"healthbar_colors": [
+		168,
+		1,
+		52
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 2.90000000000001,
+	"scale": 1
+}

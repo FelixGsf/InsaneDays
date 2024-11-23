@@ -1,0 +1,106 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-50,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "RayoIdle",
+			"indices": [
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				140
+			],
+			"anim": "shot1",
+			"fps": 24,
+			"name": "RayoShotRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				533,
+				112
+			],
+			"anim": "shot2",
+			"fps": 24,
+			"name": "RayoShotLeft",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-50,
+				140
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "RayoShotRight",
+			"indices": [
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17
+			]
+		},
+		{
+			"offsets": [
+				210,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "cheer",
+			"loop": false,
+			"name": "Hey Rayo"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pico_killin_assetss",
+	"position": [
+		0,
+		-20
+	],
+	"healthicon": "rayor",
+	"flip_x": false,
+	"healthbar_colors": [
+		48,
+		92,
+		87
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				44,
+				11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "firthDead"
+		},
+		{
+			"offsets": [
+				44,
+				11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "loop"
+		},
+		{
+			"offsets": [
+				44,
+				11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "confirm"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "deathAnimations/felixPixel_dead",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "pixelfx",
+	"flip_x": true,
+	"healthbar_colors": [
+		156,
+		0,
+		0
+	],
+	"camera_position": [
+		400,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

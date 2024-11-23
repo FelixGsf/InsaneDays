@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				-4
+			],
+			"anim": "Died",
+			"fps": 24,
+			"name": "sky confident 0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				22,
+				0
+			],
+			"anim": "QUE",
+			"fps": 24,
+			"name": "sky testing",
+			"indices": []
+		},
+		{
+			"offsets": [
+				22,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "sky testing"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sky idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sky right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sky left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				79,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sky down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sky up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/luzhyAssets",
+	"position": [
+		0,
+		80
+	],
+	"healthicon": "luzhy",
+	"flip_x": false,
+	"healthbar_colors": [
+		86,
+		50,
+		137
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 5,
+	"scale": 1
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Keko Idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Keko Sing note LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				181,
+				9
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Keko Sing note UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-161
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Keko Sing note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				-50
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Keko Sing note RIGHT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mapacheOWO",
+	"position": [
+		0,
+		130
+	],
+	"healthicon": "leo",
+	"flip_x": false,
+	"healthbar_colors": [
+		76,
+		43,
+		35
+	],
+	"camera_position": [
+		-50,
+		-40
+	],
+	"sing_duration": 3.50000000000001,
+	"scale": 1
+}

@@ -1,0 +1,92 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				5,
+				-84
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left pose phase 3 lol"
+		},
+		{
+			"offsets": [
+				-207,
+				-164
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down phase 3 lol"
+		},
+		{
+			"offsets": [
+				-183,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up pose phase 3 lol"
+		},
+		{
+			"offsets": [
+				-237,
+				-129
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right pose phase 3 lol"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-172,
+				-120
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-172,
+				-120
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "idle",
+			"indices": [
+				12,
+				13
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Thats all folks CC",
+	"position": [
+		0,
+		40
+	],
+	"healthicon": "taf_cc_iconsnoAnim",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		100,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

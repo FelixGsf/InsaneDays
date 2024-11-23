@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				-246
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bf down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bf smugg"
+		},
+		{
+			"offsets": [
+				28,
+				-184
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bf smug left"
+		},
+		{
+			"offsets": [
+				-11,
+				-163
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bf smug up"
+		},
+		{
+			"offsets": [
+				-36,
+				-206
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bf smug right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-203
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "bf hey",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/felixAdolecent2",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "felixR",
+	"flip_x": true,
+	"healthbar_colors": [
+		128,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		190
+	],
+	"sing_duration": 3.6,
+	"scale": 1
+}
