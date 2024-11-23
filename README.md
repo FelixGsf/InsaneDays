@@ -1,3 +1,4 @@
+
 # Friday Night Funkin' - INSANE DAYS
 Este Mod usa 'PSYCH ENGINE 0.6.3' asi que si quieres compilar el codigo usa las librerias correspondientes de esta version del engine
 
@@ -27,6 +28,7 @@ Este Mod usa 'PSYCH ENGINE 0.6.3' asi que si quieres compilar el codigo usa las 
 ## Addons Support
 * Probablemente esto es lo mas util de este Mod. compatibilidad con (Lua) y (modLoader)
 * Puedes instalar Los addons de forma automatica desde el juego!
+![FNF-Insane-2024-11-23-13-52-49](https://github.com/user-attachments/assets/c2587470-f20a-4412-9112-81b875086157)
 
 # OPCIONES NUEVAS:
 
