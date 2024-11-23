@@ -1,5 +1,6 @@
 # Friday Night Funkin' - INSANE DAYS
-Este Mod usa 'PSYCH ENGINE 0.6.3' asi que si quieres compilar el codigo usa las librerias correspondientes de esta version del engine:
+Este Mod usa 'PSYCH ENGINE 0.6.3' asi que si quieres compilar el codigo usa las librerias correspondientes de esta version del engine
+
 *f
 ## Addons Support
 * Probably one of the main points of this engine, you can code in .lua files outside of the source code, making your own weeks without even messing with the source!
