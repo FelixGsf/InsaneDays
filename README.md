@@ -25,7 +25,7 @@ Este Mod usa 'PSYCH ENGINE 0.6.3' asi que si quieres compilar el codigo usa las 
 * thx.semver: 0.2.2
 * tjson: 1.4.0
 ## Addons Support
-* Probablemente esto es lo mas util de este Mod compatibilidad con ´lua´
+* Probablemente esto es lo mas util de este Mod compatibilidad con #Lua
 * Comes with a Mod Organizing/Disabling Menu.
 
 #OPCIONES NUEVAS:
