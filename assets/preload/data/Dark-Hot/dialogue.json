@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"sound": "rayo",
+			"speed": 0.05,
+			"portrait": "rayo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "naaa muy izi"
+		},
+		{
+			"sound": "rayo",
+			"speed": 0.05,
+			"portrait": "rayod",
+			"boxState": "normal",
+			"expression": "gun",
+			"text": "te lo adverti ahora estas cansado practicamente muerto"
+		},
+		{
+			"sound": "dark",
+			"speed": 0.05,
+			"portrait": "darkd",
+			"boxState": "normal",
+			"expression": "ehh",
+			"text": "cansado estoy,pero no me voy a morir"
+		},
+		{
+			"sound": "rayo",
+			"speed": 0.05,
+			"portrait": "rayo",
+			"boxState": "angry",
+			"expression": "talk2",
+			"text": "ESCUSAS"
+		},
+		{
+			"sound": "rayo",
+			"speed": 0.05,
+			"portrait": "rayo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bueno en fin 2 a 0 te rindes o hacemos q la ultima ronda valga x3"
+		},
+		{
+			"sound": "dark",
+			"speed": 0.05,
+			"portrait": "darkd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "que valga x3 asi ganare "
+		},
+		{
+			"sound": "rayo",
+			"speed": 0.05,
+			"portrait": "rayo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lo dudo mucho,dudo q puedes siquiera poder quitarme gran parte de terreno de canto (salud)"
+		},
+		{
+			"sound": "dark",
+			"speed": 0.05,
+			"portrait": "darkd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "claro q puedo solo tengo q mantener tu ritmo y GG"
+		},
+		{
+			"sound": "rayo",
+			"speed": 0.05,
+			"portrait": "rayo",
+			"boxState": "normal",
+			"expression": "bruh",
+			"text": "sisi sigue hablando maricadas q cuando pierdas vas a salir llorando"
+		},
+		{
+			"sound": "dark",
+			"speed": 0.05,
+			"portrait": "darkd",
+			"boxState": "normal",
+			"expression": "cigarre",
+			"text": "bien..q esperas ven y demuestralo"
+		},
+		{
+			"sound": "rayo",
+			"speed": 0.05,
+			"portrait": "rayo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "tu lo pediste"
+		}
+	]
+}

@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"sound": "rayo",
+			"speed": 0.05,
+			"portrait": "rayod",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "una cancion bastante relajante diria yo"
+		},
+		{
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd",
+			"boxState": "normal",
+			"expression": "khe",
+			"text": "me sorprendio hasta a mi "
+		},
+		{
+			"sound": "dad",
+			"speed": 0.05,
+			"portrait": "felxd",
+			"boxState": "normal",
+			"expression": "truen",
+			"text": "espero q te hayas relajado,porque la siguiente cambiara de ritmo"
+		},
+		{
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd",
+			"boxState": "normal",
+			"expression": "serius",
+			"text": "bueno fue lindo mientras duro"
+		},
+		{
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd",
+			"boxState": "normal",
+			"expression": "serius",
+			"text": "cuando llega mi madre ya estoy arto de estar aqui contigo sin ofender"
+		},
+		{
+			"sound": "dad",
+			"speed": 0.05,
+			"portrait": "felxd",
+			"boxState": "normal",
+			"expression": "crazy",
+			"text": "llegara cuando tenga q llegar maldito culicagado"
+		},
+		{
+			"sound": "dad",
+			"speed": 0.05,
+			"portrait": "felxd",
+			"boxState": "normal",
+			"expression": "sudor",
+			"text": "tenias q aver salido como tu madre no"
+		},
+		{
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd",
+			"boxState": "normal",
+			"expression": "angry2",
+			"text": "no es mi culpa q la genetica de mi mama es superior a la de tu familia"
+		},
+		{
+			"sound": "dad",
+			"speed": 0.05,
+			"portrait": "felxd",
+			"boxState": "normal",
+			"expression": "sudor",
+			"text": "aun asi mi familia es conocida por tener las mejore cuerdas vocales"
+		},
+		{
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd",
+			"boxState": "normal",
+			"expression": "asco",
+			"text": "bien..demuestralo, hasta ahora lo unico q has mostrado es ser inferior a tu propio hijo"
+		},
+		{
+			"sound": "dad",
+			"speed": 0.05,
+			"portrait": "felxd",
+			"boxState": "normal",
+			"expression": "crazy",
+			"text": "bien...tu lo pediste desagradecido malcriado"
+		},
+		{
+			"sound": "rayo",
+			"speed": 0.05,
+			"portrait": "rayod",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "creo q tengo la instrumental perfecta"
+		},
+		{
+			"sound": "exmixd",
+			"speed": 0.05,
+			"portrait": "exmixd",
+			"boxState": "normal",
+			"expression": "serius",
+			"text": "q maricada mejor me pongo a jugar clash"
+		}
+	]
+}

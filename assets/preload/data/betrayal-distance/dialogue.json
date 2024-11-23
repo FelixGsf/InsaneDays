@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.005,
+			"portrait": "fresadialogue",
+			"boxState": "normal",
+			"expression": "mmmmm",
+			"text": "...."
+		},
+		{
+			"sound": "felix",
+			"speed": 0.08,
+			"portrait": "felixd",
+			"boxState": "normal",
+			"expression": "serius",
+			"text": "te lo adverti "
+		},
+		{
+			"sound": "fresad",
+			"speed": 0.05,
+			"portrait": "fresadialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bien tienes razon..."
+		},
+		{
+			"sound": "fresad",
+			"speed": 0.05,
+			"portrait": "fresadialogue",
+			"boxState": "normal",
+			"expression": "crazy2zzz",
+			"text": "pero todavia no pienso rendirme..."
+		},
+		{
+			"sound": "fresad",
+			"speed": 0.05,
+			"portrait": "fresadialogue",
+			"boxState": "normal",
+			"expression": "F locura",
+			"text": "mas aun si te tengo un regalito preparado"
+		},
+		{
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd",
+			"boxState": "normal",
+			"expression": "asco",
+			"text": "regalo?"
+		},
+		{
+			"sound": "fresad",
+			"speed": 0.05,
+			"portrait": "fresadialogue",
+			"boxState": "normal",
+			"expression": "F locura",
+			"text": "te va a gustar, lo prometo"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ola xddd (viva la OTAN)"
+		}
+	]
+}
