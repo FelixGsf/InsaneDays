@@ -28,7 +28,7 @@ Este Mod usa 'PSYCH ENGINE 0.6.3' asi que si quieres compilar el codigo usa las 
 * Probablemente esto es lo mas util de este Mod. compatibilidad con (Lua) y (modLoader)
 * Puedes instalar Los addons de forma automatica desde el juego!
 
-#OPCIONES NUEVAS:
+# OPCIONES NUEVAS:
 
 -Este mod añade nuevas opciones completamente programadas en 'lua' asi que puedes modificarlas a tu gusto sin necesidad
 de modificar el codigo fuente
