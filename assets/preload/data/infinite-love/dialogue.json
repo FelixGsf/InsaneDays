@@ -1,0 +1,156 @@
+{
+	"dialogue": [
+		{
+			"expression": "angry",
+			"text": "deja de lucirte frente a tus amigos",
+			"boxState": "angry",
+			"sound": "mom",
+			"speed": 0.05,
+			"portrait": "rosed"
+		},
+		{
+			"expression": "serius",
+			"text": "no me estoy luciendo simplemente estoy siguiendo tu BEAT",
+			"boxState": "normal",
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd"
+		},
+		{
+			"expression": "crazy",
+			"text": "veo q no has cambiado NADA todo este tiempo",
+			"boxState": "normal",
+			"sound": "mom",
+			"speed": 0.05,
+			"portrait": "rosed"
+		},
+		{
+			"expression": "asco",
+			"text": "pues q esperaban  q me volviera un hijo q se deja mandonear por sus padres",
+			"boxState": "normal",
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd"
+		},
+		{
+			"expression": "stop",
+			"text": "tengo 19 tengo el maldito derecho a comportarme como se me de la maldita gana",
+			"boxState": "normal",
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd"
+		},
+		{
+			"expression": "sad Crazy",
+			"text": "ya dejenme de tratar como un enano de 12 ",
+			"boxState": "normal",
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd"
+		},
+		{
+			"expression": "talk",
+			"text": "esta chimba el chisme",
+			"boxState": "normal",
+			"sound": "rayo",
+			"speed": 0.05,
+			"portrait": "rayod"
+		},
+		{
+			"expression": "happy",
+			"text": "esta ameneciendo porfin jaja",
+			"boxState": "normal",
+			"sound": "namy",
+			"speed": 0.05,
+			"portrait": "namyd"
+		},
+		{
+			"expression": "asco",
+			"text": "cuanto falta para llegar a casa",
+			"boxState": "normal",
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd"
+		},
+		{
+			"expression": "laugh",
+			"text": "como una hora y media mazo menos",
+			"boxState": "normal",
+			"sound": "mom",
+			"speed": 0.05,
+			"portrait": "rosed"
+		},
+		{
+			"expression": "truen",
+			"text": "simplemente sigan q el tiempo vale oro",
+			"boxState": "normal",
+			"sound": "dad",
+			"speed": 0.05,
+			"portrait": "felxd"
+		},
+		{
+			"expression": "angry",
+			"text": "vuelve al maldito auto",
+			"boxState": "angry",
+			"sound": "mom",
+			"speed": 0.05,
+			"portrait": "rosed"
+		},
+		{
+			"expression": "khe",
+			"text": "si, todo sigue entre ellos tal y como me fui",
+			"boxState": "normal",
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd"
+		},
+		{
+			"expression": "truen",
+			"text": "bueno sigamos antes de que amanezca del todo y aparezca la policia",
+			"boxState": "normal",
+			"sound": "mom",
+			"speed": 0.05,
+			"portrait": "rosed"
+		},
+		{
+			"expression": "XDDD",
+			"text": "supuse q esto era ilegal",
+			"boxState": "normal",
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd"
+		},
+		{
+			"expression": "sad",
+			"text": "mrd y yo traje esta arma de decoracion,no traje municion",
+			"boxState": "normal",
+			"sound": "rayo",
+			"speed": 0.05,
+			"portrait": "rayod"
+		},
+		{
+			"expression": "cigarre",
+			"text": "esquizde",
+			"boxState": "normal",
+			"sound": "exmixd",
+			"speed": 0.05,
+			"portrait": "exmixd"
+		},
+		{
+			"sound": "mom",
+			"speed": 0.05,
+			"portrait": "rosed",
+			"boxState": "normal",
+			"expression": "punt",
+			"text": "ustedes 3 pasen a la limocina de alli,quiero toda la luz q sea posible"
+		},
+		{
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd",
+			"boxState": "normal",
+			"expression": "preo",
+			"text": "mrd se q vas a intentar y no me gusta"
+		}
+	]
+}

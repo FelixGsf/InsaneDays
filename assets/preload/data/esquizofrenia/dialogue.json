@@ -1,0 +1,156 @@
+{
+	"dialogue": [
+		{
+			"expression": "nose",
+			"text": "AAAAAAA zorra, como sigues vivo?",
+			"boxState": "angry",
+			"sound": "fresad",
+			"speed": 0.05,
+			"portrait": "fresadialogue"
+		},
+		{
+			"expression": "XDDD",
+			"text": "mrd...",
+			"boxState": "normal",
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd"
+		},
+		{
+			"expression": "scare",
+			"text": "Q mierda has hecho?",
+			"boxState": "angry",
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd"
+		},
+		{
+			"expression": "crazyaa",
+			"text": "namy!!!!",
+			"boxState": "normal",
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd"
+		},
+		{
+			"sound": "fresad",
+			"speed": 0.05,
+			"portrait": "fresaDialogue",
+			"boxState": "normal",
+			"expression": "crazy",
+			"text": "awww q bonito, se preocupa por una de sus victimas por fin"
+		},
+		{
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd",
+			"boxState": "angry",
+			"expression": "sad angry",
+			"text": "eres una maldita perra!! esto se supone que era entre tu y yo "
+		},
+		{
+			"sound": "fresad",
+			"speed": 0.05,
+			"portrait": "fresaDialogue",
+			"boxState": "normal",
+			"expression": "power",
+			"text": "antes ella me tiene que agradecer q la salve de una gran decepsion"
+		},
+		{
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd",
+			"boxState": "angry",
+			"expression": "sad angry",
+			"text": "sigues dolida por algo q paso hace mucho tiempo atras?"
+		},
+		{
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "eres una inmadura de mierda"
+		},
+		{
+			"sound": "fresad",
+			"speed": 0.05,
+			"portrait": "fresadialogue",
+			"boxState": "normal",
+			"expression": "locura",
+			"text": "JAJAJ lastima q haya muerto..."
+		},
+		{
+			"sound": "fresad",
+			"speed": 0.05,
+			"portrait": "fresaDialogue",
+			"boxState": "normal",
+			"expression": "heard",
+			"text": "queria q viera como acabo con tu repugnante vida"
+		},
+		{
+			"sound": "fresad",
+			"speed": 0.05,
+			"portrait": "fresadialogue",
+			"boxState": "normal",
+			"expression": "heard",
+			"text": "seria tan lindo q viera como te arranco el corazon"
+		},
+		{
+			"sound": "fresad",
+			"speed": 0.05,
+			"portrait": "fresadialogue",
+			"boxState": "normal",
+			"expression": "heard",
+			"text": "y lo hago estallar asi"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "fresadialogue",
+			"boxState": "normal",
+			"expression": "crazy2",
+			"text": ""
+		},
+		{
+			"sound": "fresad",
+			"speed": 0.05,
+			"portrait": "fresadialogue",
+			"boxState": "normal",
+			"expression": "locura",
+			"text": "mas te vale cantar con todo lo que tienes"
+		},
+		{
+			"sound": "fresad",
+			"speed": 0.05,
+			"portrait": "fresadialogue",
+			"boxState": "normal",
+			"expression": "power",
+			"text": "aunque eso no te servira de nada"
+		},
+		{
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "ten esto en cuenta perra"
+		},
+		{
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "si tus padres no te mataron."
+		},
+		{
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yo mismo lo hare"
+		}
+	]
+}
