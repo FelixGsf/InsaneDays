@@ -1,0 +1,3136 @@
+{
+	"song": {
+		"events": [
+			[
+				9600,
+				[
+					[
+						"Black Screen Flash",
+						"1",
+						""
+					],
+					[
+						"Default Cam Zoom",
+						"1",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				14400,
+				[
+					[
+						"Black Screen Flash",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				19200,
+				[
+					[
+						"Black Screen Flash",
+						"1",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"240",
+						"700"
+					]
+				]
+			],
+			[
+				19500,
+				[
+					[
+						"Change Character",
+						"dad",
+						"cc-transformation"
+					],
+					[
+						"Play Animation",
+						"idle",
+						"dad"
+					]
+				]
+			],
+			[
+				20400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						"0"
+					]
+				]
+			],
+			[
+				20700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						"0"
+					]
+				]
+			],
+			[
+				21000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.15",
+						"0"
+					]
+				]
+			],
+			[
+				21300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.15",
+						"0"
+					]
+				]
+			],
+			[
+				21525,
+				[
+					[
+						"Change Stage",
+						"destroy",
+						""
+					]
+				]
+			],
+			[
+				21600,
+				[
+					[
+						"Change Character",
+						"dad",
+						"cc-phase-3"
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					],
+					[
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				26400,
+				[
+					[
+						"Black Screen Flash",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				31200,
+				[
+					[
+						"Black Screen Flash",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				36000,
+				[
+					[
+						"Black Screen Flash",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Black Screen Flash",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				40800,
+				[
+					[
+						"White Screen Flash",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				42600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.06",
+						"0.06"
+					]
+				]
+			],
+			[
+				42900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.06",
+						"0.06"
+					]
+				]
+			],
+			[
+				43200,
+				[
+					[
+						"White Screen Flash",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				45000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.06",
+						"0.06"
+					]
+				]
+			],
+			[
+				45300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.06",
+						"0.06"
+					]
+				]
+			],
+			[
+				45600,
+				[
+					[
+						"White Screen Flash",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				47400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.06",
+						"0.06"
+					]
+				]
+			],
+			[
+				47700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.06",
+						"0.06"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"White Screen Flash",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				50400,
+				[
+					[
+						"White Screen Flash",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				52200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.06",
+						"0.06"
+					]
+				]
+			],
+			[
+				52500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.06",
+						"0.06"
+					]
+				]
+			],
+			[
+				52800,
+				[
+					[
+						"White Screen Flash",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				54600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.06",
+						"0.06"
+					]
+				]
+			],
+			[
+				54900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.06",
+						"0.06"
+					]
+				]
+			],
+			[
+				55200,
+				[
+					[
+						"White Screen Flash",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				57000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.06",
+						"0.06"
+					]
+				]
+			],
+			[
+				57300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.06",
+						"0.06"
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"White Screen Flash",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				58800,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				58875,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				58950,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59025,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59100,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59175,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59250,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59325,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59400,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59437.5,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59475,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59512.5,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59550,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59587.5,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59625,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59662.5,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59700,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59737.5,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59775,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59812.5,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59850,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59887.5,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59925,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59962.5,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				60000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					],
+					[
+						"White Screen Flash",
+						"0.8",
+						""
+					],
+					[
+						"Default Cam Zoom",
+						"0.55",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"1000",
+						"500"
+					],
+					[
+						"Triggers TAF",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				60450,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				60600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.1"
+					]
+				]
+			],
+			[
+				60900,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				61500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				61800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.1"
+					]
+				]
+			],
+			[
+				62250,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				62400,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				62700,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				62850,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				63000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.1"
+					]
+				]
+			],
+			[
+				63300,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				63900,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				64200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.1"
+					]
+				]
+			],
+			[
+				64425,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				64650,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				64800,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				65250,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				65400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.1"
+					]
+				]
+			],
+			[
+				65700,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				66300,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				66600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.1"
+					]
+				]
+			],
+			[
+				67050,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				67200,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				67500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				67650,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				67800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.1"
+					]
+				]
+			],
+			[
+				68100,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				68700,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				69000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.1"
+					]
+				]
+			],
+			[
+				69225,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				69450,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				69600,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				70050,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				70200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.1"
+					]
+				]
+			],
+			[
+				70500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				71100,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				71400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.1"
+					]
+				]
+			],
+			[
+				71850,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				72300,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				72450,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				72600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.1"
+					]
+				]
+			],
+			[
+				72900,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				73500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				73800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.1"
+					]
+				]
+			],
+			[
+				74025,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				74250,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				74400,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				74850,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				75000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.1"
+					]
+				]
+			],
+			[
+				75225,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				75900,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				76200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.1"
+					]
+				]
+			],
+			[
+				76650,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				77100,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				77250,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				77400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.1"
+					]
+				]
+			],
+			[
+				77700,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				78000,
+				[
+					[
+						"Default Cam Zoom",
+						"0.6",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				78225,
+				[
+					[
+						"Default Cam Zoom",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				78300,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				78450,
+				[
+					[
+						"Default Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				78600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.1"
+					]
+				]
+			],
+			[
+				78750,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				78900,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				78975,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				79050,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				79125,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				79200,
+				[
+					[
+						"White Screen Flash",
+						"0.8",
+						""
+					],
+					[
+						"Triggers TAF",
+						"2",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"White Screen Flash",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				88800,
+				[
+					[
+						"White Screen Flash",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				93600,
+				[
+					[
+						"White Screen Flash",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				98400,
+				[
+					[
+						"White Screen Flash",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				103200,
+				[
+					[
+						"White Screen Flash",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				108000,
+				[
+					[
+						"White Screen Flash",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				112800,
+				[
+					[
+						"White Screen Flash",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				117600,
+				[
+					[
+						"Triggers TAF",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				118650,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				118725,
+				[
+					[
+						"Change Stage",
+						"dog",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"0.86",
+						"1"
+					]
+				]
+			],
+			[
+				118800,
+				[
+					[
+						"Change Character",
+						"1",
+						"cdtaf"
+					],
+					[
+						"White Screen Flash",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					],
+					[
+						"Default Cam Zoom",
+						"0.76",
+						""
+					],
+					[
+						"Triggers TAF",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				119700,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				120300,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				120900,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				121050,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				121200,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				121650,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				122100,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				122400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				122700,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				123000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				123300,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				123600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				124500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				124800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				125100,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				125700,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				125850,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				126000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				126450,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				126900,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				127200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				127500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				127800,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				128100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				128400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				129300,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				129600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				129900,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				130500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				130650,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				130800,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				131250,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				131700,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				132000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				132300,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				132600,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				132900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				133200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				134100,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				134400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				134700,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				135300,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				135450,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				135600,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				136050,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				136500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				136800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				137400,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				137700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				138000,
+				[
+					[
+						"Default Cam Zoom",
+						"1.2",
+						""
+					],
+					[
+						"Black Screen Flash",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				138900,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				138975,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				139050,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				139125,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				139200,
+				[
+					[
+						"White Screen Flash",
+						"1",
+						""
+					],
+					[
+						"Default Cam Zoom",
+						"0.8",
+						""
+					],
+					[
+						"Triggers TAF",
+						"5",
+						""
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"White Screen Flash",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				148800,
+				[
+					[
+						"White Screen Flash",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				153600,
+				[
+					[
+						"White Screen Flash",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				158400,
+				[
+					[
+						"Default Cam Zoom",
+						"0.9",
+						""
+					],
+					[
+						"White Screen Flash",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				160800,
+				[
+					[
+						"Default Cam Zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				163200,
+				[
+					[
+						"Default Cam Zoom",
+						"0.9",
+						""
+					],
+					[
+						"White Screen Flash",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				165600,
+				[
+					[
+						"Default Cam Zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				168000,
+				[
+					[
+						"Default Cam Zoom",
+						"1.2",
+						""
+					],
+					[
+						"White Screen Flash",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				170400,
+				[
+					[
+						"Default Cam Zoom",
+						"1.4",
+						""
+					]
+				]
+			],
+			[
+				172800,
+				[
+					[
+						"Default Cam Zoom",
+						"1.2",
+						""
+					],
+					[
+						"White Screen Flash",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				175200,
+				[
+					[
+						"Default Cam Zoom",
+						"1.4",
+						""
+					]
+				]
+			],
+			[
+				177600,
+				[
+					[
+						"Default Cam Zoom",
+						"0.8",
+						""
+					],
+					[
+						"Black Screen Flash",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				178800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.06",
+						"0.06"
+					],
+					[
+						"White Screen Flash",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				179100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.09",
+						"0.09"
+					],
+					[
+						"White Screen Flash",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				179400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.09",
+						"0.09"
+					],
+					[
+						"White Screen Flash",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				179700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.09",
+						"0.09"
+					],
+					[
+						"White Screen Flash",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				180000,
+				[
+					[
+						"Black Screen Flash",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				180900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.04"
+					]
+				]
+			],
+			[
+				181200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				181500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				182100,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				182250,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				182400,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				182850,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				183300,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				183600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				183900,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				184200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.04"
+					]
+				]
+			],
+			[
+				184500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.04"
+					]
+				]
+			],
+			[
+				184800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					],
+					[
+						"Black Screen Flash",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				185700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.04"
+					]
+				]
+			],
+			[
+				186000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				186300,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				186900,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				187050,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				187200,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				187650,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				188100,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				188400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				188700,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				189000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.04"
+					]
+				]
+			],
+			[
+				189300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.04"
+					]
+				]
+			],
+			[
+				189600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					],
+					[
+						"Black Screen Flash",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				190500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				190800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				191100,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				191700,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				191850,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				192000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				192450,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				192900,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				193200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				193500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				193800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.1"
+					]
+				]
+			],
+			[
+				194100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.04"
+					]
+				]
+			],
+			[
+				194400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					],
+					[
+						"Black Screen Flash",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				195300,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				195600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				195900,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				196500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				196650,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				196800,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				197250,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				197700,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				198000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				198300,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				198600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.04"
+					]
+				]
+			],
+			[
+				198900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.04"
+					]
+				]
+			],
+			[
+				199200,
+				[
+					[
+						"White Screen Flash",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				210000,
+				[
+					[
+						"bfAndGf_miss",
+						"jump",
+						""
+					]
+				]
+			],
+			[
+				210075,
+				[
+					[
+						"Change Character",
+						"dad",
+						"CC_felixForm"
+					],
+					[
+						"Change Character",
+						"gf",
+						"CD_mariForm"
+					],
+					[
+						"Triggers TAF",
+						"6",
+						""
+					]
+				]
+			],
+			[
+				211050,
+				[
+					[
+						"bgremove",
+						"lost",
+						""
+					]
+				]
+			],
+			[
+				211125,
+				[
+					[
+						"Change Stage",
+						"destroy",
+						""
+					]
+				]
+			],
+			[
+				211200,
+				[
+					[
+						"White Screen Flash",
+						"1",
+						""
+					],
+					[
+						"Triggers TAF",
+						"7",
+						""
+					]
+				]
+			],
+			[
+				220800,
+				[
+					[
+						"White Screen Flash",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				225600,
+				[
+					[
+						"White Screen Flash",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				230400,
+				[
+					[
+						"White Screen Flash",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				248400,
+				[
+					[
+						"Black Screen Flash",
+						"2",
+						""
+					],
+					[
+						"Default Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				249600,
+				[
+					[
+						"",
+						"dad",
+						"cc_taf_toon"
+					],
+					[
+						"",
+						"gf",
+						"cd_taf_toon"
+					],
+					[
+						"Black Screen Flash",
+						"4",
+						""
+					],
+					[
+						"",
+						"bf",
+						"bf-toon-blurry"
+					],
+					[
+						"Default Cam Zoom",
+						"0.7",
+						""
+					],
+					[
+						"Triggers TAF",
+						"8",
+						""
+					]
+				]
+			],
+			[
+				259200,
+				[
+					[
+						"White Screen Flash",
+						"0.8",
+						""
+					],
+					[
+						"Default Cam Zoom",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				264000,
+				[
+					[
+						"White Screen Flash",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				268800,
+				[
+					[
+						"Default Cam Zoom",
+						"0.7",
+						""
+					],
+					[
+						"Black Screen Flash",
+						"1",
+						""
+					],
+					[
+						"Triggers TAF",
+						"9",
+						""
+					]
+				]
+			],
+			[
+				270000,
+				[
+					[
+						"Default Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				271200,
+				[
+					[
+						"Default Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				272400,
+				[
+					[
+						"Default Cam Zoom",
+						"1.0",
+						""
+					]
+				]
+			],
+			[
+				273000,
+				[
+					[
+						"Default Cam Zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				273600,
+				[
+					[
+						"",
+						"gf",
+						"CD_mariForm"
+					],
+					[
+						"",
+						"dad",
+						"CC_felixForm"
+					],
+					[
+						"Default Cam Zoom",
+						"0.8",
+						""
+					],
+					[
+						"White Screen Flash",
+						"0.8",
+						""
+					],
+					[
+						"",
+						"bf",
+						"felix"
+					],
+					[
+						"Triggers TAF",
+						"10",
+						""
+					]
+				]
+			],
+			[
+				278400,
+				[
+					[
+						"White Screen Flash",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				283200,
+				[
+					[
+						"White Screen Flash",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				288000,
+				[
+					[
+						"White Screen Flash",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				292800,
+				[
+					[
+						"White Screen Flash",
+						"0.8",
+						""
+					],
+					[
+						"Triggers TAF",
+						"11",
+						""
+					]
+				]
+			]
+		]
+	}
+}
