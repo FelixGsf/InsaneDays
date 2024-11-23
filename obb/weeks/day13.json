@@ -1,0 +1,46 @@
+{
+	"storyName": "capitulo 14: No te recordaba asi...",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"hiddenUntilUnlocked": true,
+	"weekBackground": "yourself",
+	"weekBefore": "day12",
+	"portrait": "yourself",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Remember Me",
+			"billyFree",
+			[
+				60,
+				76,
+				149
+			]
+		],
+		[
+			"Cursed Mirror",
+			"billyFree",
+			[
+				60,
+				76,
+				149
+			]
+		],
+		[
+			"Rapper Battle",
+			"billyFree",
+			[
+				60,
+				76,
+				149
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "yea"
+}

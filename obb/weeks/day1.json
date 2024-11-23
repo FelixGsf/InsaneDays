@@ -1,0 +1,51 @@
+{
+	"storyName": "capitulo 2: Disparos entre amigos!",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"portrait": "rayo",
+	"weekBackground": "rayo",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"anorexic",
+			"rayoR",
+			[
+				40,
+				195,
+				255
+			]
+		],
+		[
+			"insane",
+			"rayoR",
+			[
+				40,
+				195,
+				255
+			]
+		],
+		[
+			"shot head",
+			"rayoR",
+			[
+				40,
+				195,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "rayo",
+	"hiddenUntilUnlocked": false
+}

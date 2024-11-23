@@ -1,0 +1,51 @@
+{
+	"storyName": "Capitulo 9: Nos volvemos a ver...",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "sarix",
+	"portrait": "sarix",
+	"weekBefore": "day6",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Friendship roses",
+			"sarix1",
+			[
+				255,
+				135,
+				175
+			]
+		],
+		[
+			"Withered",
+			"sarix1",
+			[
+				255,
+				135,
+				175
+			]
+		],
+		[
+			"Drawing Dreams",
+			"sarix1",
+			[
+				255,
+				135,
+				175
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "Niose"
+}

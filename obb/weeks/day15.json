@@ -1,0 +1,51 @@
+{
+	"storyName": "capitulo 16: Recuerdos del pasado!",
+	"difficulties": "easy",
+	"hideFreeplay": false,
+	"weekBackground": "duo",
+	"weekBefore": "day14",
+	"portrait": "duo",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Ratero",
+			"icon-huefano",
+			[
+				246,
+				153,
+				115
+			]
+		],
+		[
+			"Popayano",
+			"huefano",
+			[
+				255,
+				255,
+				235
+			]
+		],
+		[
+			"Double Trouble",
+			"icon-huefano",
+			[
+				246,
+				153,
+				115
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "sex"
+}

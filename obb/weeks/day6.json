@@ -1,0 +1,51 @@
+{
+	"storyName": "Capitulo 8: el edificio arde!",
+	"difficulties": "hard_sister,hard_tilina",
+	"weekBackground": "darkangel",
+	"hideFreeplay": true,
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "day5-mom",
+	"portrait": "darkangel",
+	"startUnlocked": false,
+	"songs": [
+		[
+			"bandit",
+			"elmariwano",
+			[
+				126,
+				20,
+				75
+			]
+		],
+		[
+			"Otaku",
+			"elmariwano",
+			[
+				126,
+				20,
+				75
+			]
+		],
+		[
+			"Dark Hot",
+			"elmariwano",
+			[
+				126,
+				20,
+				75
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "Custom Week"
+}

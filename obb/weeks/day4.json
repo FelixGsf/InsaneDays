@@ -1,0 +1,51 @@
+{
+	"storyName": "Capitulo 5: Leo esta de tu lado",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "leo",
+	"portrait": "leo",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "day3",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"racoonlovania",
+			"leo",
+			[
+				140,
+				80,
+				75
+			]
+		],
+		[
+			"WillPower",
+			"leo",
+			[
+				140,
+				80,
+				75
+			]
+		],
+		[
+			"furryphobia",
+			"leo",
+			[
+				140,
+				80,
+				75
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": true
+}

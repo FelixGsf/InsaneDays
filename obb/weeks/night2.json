@@ -1,0 +1,51 @@
+{
+	"storyName": "capitulo 3: el vape no siempre es la solucion...",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "Exmix",
+	"portrait": "exmix",
+	"weekBefore": "day1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"egocentric",
+			"exmix",
+			[
+				190,
+				0,
+				95
+			]
+		],
+		[
+			"vaper",
+			"exmix",
+			[
+				190,
+				0,
+				95
+			]
+		],
+		[
+			"ex addict",
+			"exmix",
+			[
+				190,
+				0,
+				95
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "xddd"
+}

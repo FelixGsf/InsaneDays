@@ -1,0 +1,42 @@
+{
+	"storyName": "Capitulo 20: Odios los payasos!",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "ronald",
+	"weekBefore": "day18",
+	"portrait": "ronald",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"The Idea",
+			"ronald",
+			[
+				255,
+				33,
+				53
+			]
+		],
+		[
+			"Combo Meal",
+			"ronald",
+			[
+				255,
+				33,
+				53
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "ronald"
+}

@@ -1,0 +1,51 @@
+{
+	"storyName": "cap15 small but dangerous",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "isa",
+	"weekBefore": "day13",
+	"portrait": "isa",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"classism",
+			"isa",
+			[
+				235,
+				233,
+				115
+			]
+		],
+		[
+			"RedEx",
+			"isa",
+			[
+				235,
+				233,
+				115
+			]
+		],
+		[
+			"IsaBM",
+			"isa",
+			[
+				235,
+				233,
+				115
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": ""
+}

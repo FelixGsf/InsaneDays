@@ -1,0 +1,60 @@
+{
+	"storyName": "Capitulo 7: mami te quiere vivo o muerto?",
+	"difficulties": "insane",
+	"hideFreeplay": false,
+	"weekBackground": "mom",
+	"portrait": "rose",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "day5",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"mom vs son",
+			"rose",
+			[
+				255,
+				133,
+				155
+			]
+		],
+		[
+			"mothers love",
+			"rose",
+			[
+				255,
+				133,
+				155
+			]
+		],
+		[
+			"infinite love",
+			"rose",
+			[
+				255,
+				133,
+				155
+			]
+		],
+		[
+			"mom battle",
+			"rose",
+			[
+				255,
+				133,
+				155
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": true
+}

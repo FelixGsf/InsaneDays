@@ -1,0 +1,42 @@
+{
+	"storyName": "Capitulo 18: En algun lugar de florida.",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "tricky",
+	"weekBefore": "day15",
+	"portrait": "tricky",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Improbable Outset",
+			"jester",
+			[
+				126,
+				33,
+				215
+			]
+		],
+		[
+			"Madness",
+			"jester",
+			[
+				126,
+				33,
+				215
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "Custom Week"
+}

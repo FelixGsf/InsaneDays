@@ -1,0 +1,51 @@
+{
+	"storyName": "Capitulo 4: traicionada",
+	"difficulties": "chill,normal",
+	"hideFreeplay": false,
+	"weekBackground": "luzhy",
+	"weekBefore": "night2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"ex gf",
+			"luzhy",
+			[
+				235,
+				0,
+				235
+			]
+		],
+		[
+			"betrayal distance",
+			"luzhy",
+			[
+				235,
+				0,
+				235
+			]
+		],
+		[
+			"esquizofrenia",
+			"demon",
+			[
+				130,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": true,
+	"portrait": "luzhy",
+	"weekName": "Custom Week"
+}
