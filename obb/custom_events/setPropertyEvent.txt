@@ -1,4 +1,0 @@
-recuerda agregar en el value 1 las comillas para q functione
-algo haci quedaria
-value1 = "bg.visible"
-value2 = false

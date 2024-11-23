@@ -1,1 +1,0 @@
-Set arrows to be middle scroll (Values do nothing.)

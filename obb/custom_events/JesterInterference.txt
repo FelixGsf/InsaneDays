@@ -1,3 +1,0 @@
-Jester static, puts a balance on the life bar if you have it high
-
-value1: nothing, just put the event

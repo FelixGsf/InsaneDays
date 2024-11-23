@@ -1,3 +1,0 @@
-Use the mouse to burst the balloons by clicking
-
-Value 1: lazy coder did not want to make more values, just put 1 and they will be activated
