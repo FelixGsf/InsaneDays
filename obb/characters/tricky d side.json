@@ -1,0 +1,178 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ti",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "ti",
+			"indices": [
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				97,
+				18
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "tl",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-108
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "td",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-120,
+				-15
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "tr",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				170
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "tu",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				90,
+				15
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "tl",
+			"indices": [
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				35,
+				169
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "tu",
+			"indices": [
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-116,
+				-14
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "tr",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				25,
+				-119
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "td",
+			"indices": [
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tricky d side",
+	"position": [
+		-170,
+		140
+	],
+	"healthicon": "jester",
+	"flip_x": false,
+	"healthbar_colors": [
+		101,
+		71,
+		137
+	],
+	"camera_position": [
+		120,
+		130
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

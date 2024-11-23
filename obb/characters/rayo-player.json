@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				31
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pico Up note0"
+		},
+		{
+			"offsets": [
+				-82,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "charge",
+			"indices": [],
+			"name": "charge"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				156,
+				75
+			],
+			"anim": "shot",
+			"fps": 24,
+			"name": "shot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				159,
+				73
+			],
+			"anim": "Shot",
+			"fps": 24,
+			"name": "shot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Pico Idle Dance0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-141,
+				-105
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "RayoNoteDown0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-136,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Pico Note Right0"
+		},
+		{
+			"offsets": [
+				-87,
+				-6
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Pico NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				-140,
+				-28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "Pico HEY!!"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				12
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "rayoDodge",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-26,
+				-5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "burpsmile",
+			"loop": false,
+			"name": "eructo"
+		},
+		{
+			"offsets": [
+				-30,
+				39
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": " pico Up note MISS0"
+		},
+		{
+			"offsets": [
+				-150,
+				-101
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "RayoNoteDown MISS"
+		},
+		{
+			"offsets": [
+				-123,
+				5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "Pico Note Right MISS"
+		},
+		{
+			"offsets": [
+				-98,
+				3
+			],
+			"indices": [],
+			"fps": 25,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "Pico NOTE LEFT MISS "
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rayoRework",
+	"position": [
+		0,
+		320
+	],
+	"healthicon": "rayoR",
+	"flip_x": true,
+	"healthbar_colors": [
+		59,
+		137,
+		159
+	],
+	"camera_position": [
+		-140,
+		0
+	],
+	"sing_duration": 3,
+	"scale": 1
+}
