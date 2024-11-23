@@ -25,7 +25,7 @@ Este Mod usa 'PSYCH ENGINE 0.6.3' asi que si quieres compilar el codigo usa las 
 * thx.semver: 0.2.2
 * tjson: 1.4.0
 ## Addons Support
-* Probably one of the main points of this engine, you can code in .lua files outside of the source code, making your own weeks without even messing with the source!
+* Probablemente esto es lo mas util de este Mod compatibilidad con ´lua´
 * Comes with a Mod Organizing/Disabling Menu.
 
 #OPCIONES NUEVAS:
