@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				7,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "pixel-fx-mn idle"
+		},
+		{
+			"offsets": [
+				-86,
+				-27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "pixel-fx-mn Left"
+		},
+		{
+			"offsets": [
+				-110,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pixel-fx-mn Up"
+		},
+		{
+			"offsets": [
+				-133,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "pixel-fx-mn Right"
+		},
+		{
+			"offsets": [
+				-50,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "pixel-fx-mn Down"
+		},
+		{
+			"offsets": [
+				8,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "pixel-fx-mn hey"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/pixel-fx-mn",
+	"position": [
+		-70,
+		350
+	],
+	"healthicon": "pixelfx",
+	"flip_x": true,
+	"healthbar_colors": [
+		115,
+		200,
+		240
+	],
+	"camera_position": [
+		240,
+		-260
+	],
+	"sing_duration": 4,
+	"scale": 6.1
+}

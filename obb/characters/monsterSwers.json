@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Aurora Idle"
+		},
+		{
+			"offsets": [
+				9,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Aurora Down"
+		},
+		{
+			"offsets": [
+				13,
+				283
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Aurora Up"
+		},
+		{
+			"offsets": [
+				9,
+				42
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Aurora Right"
+		},
+		{
+			"offsets": [
+				232,
+				157
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Aurora Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/monsterSewers",
+	"position": [
+		-360,
+		-190
+	],
+	"healthicon": "swers",
+	"flip_x": false,
+	"healthbar_colors": [
+		50,
+		50,
+		50
+	],
+	"camera_position": [
+		240,
+		200
+	],
+	"sing_duration": 4.7,
+	"scale": 0.6
+}
