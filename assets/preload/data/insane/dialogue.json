@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "rayo",
+			"speed": 0.05,
+			"portrait": "rayo",
+			"boxState": "angry",
+			"expression": "talk2",
+			"text": "ZORRA"
+		},
+		{
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bruh,demasiado facil"
+		},
+		{
+			"sound": "rayo",
+			"speed": 0.05,
+			"portrait": "rayo",
+			"boxState": "normal",
+			"expression": "laughC",
+			"text": "ya veremos si puedes ganar este round"
+		},
+		{
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd",
+			"boxState": "normal",
+			"expression": "serius",
+			"text": "sera facil"
+		},
+		{
+			"sound": "rayo",
+			"speed": 0.05,
+			"portrait": "rayo",
+			"boxState": "normal",
+			"expression": "gun",
+			"text": "no te confies perra,sabes q puedo sacar sorpresas con mucha facilidad"
+		},
+		{
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd",
+			"boxState": "normal",
+			"expression": "asco",
+			"text": "y crees q no lo se"
+		}
+	]
+}

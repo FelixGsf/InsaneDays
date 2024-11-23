@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"sound": "exmixd",
+			"speed": 0.05,
+			"portrait": "exmixd",
+			"boxState": "normal",
+			"expression": "jijija",
+			"text": "jaja nada mal.."
+		},
+		{
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "estuvo bien para ser una cancion relajada"
+		},
+		{
+			"sound": "exmixd",
+			"speed": 0.05,
+			"portrait": "exmixd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "se esta haciendo tarde.. hagamos esta ronda y si quieren pueden ir a pasar la noche en mi casa"
+		},
+		{
+			"sound": "namy",
+			"speed": 0.05,
+			"portrait": "namyd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "mucha gracias, la verdad estar aqui sentanda cansa aunque no lo parezca"
+		},
+		{
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd",
+			"boxState": "normal",
+			"expression": "khe",
+			"text": "gracias my bro te lo agradezo.."
+		},
+		{
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd",
+			"boxState": "normal",
+			"expression": "asco",
+			"text": "oye...ya que me acuerdo que ha pasado con barrera?"
+		},
+		{
+			"sound": "exmixd",
+			"speed": 0.05,
+			"portrait": "exmixd",
+			"boxState": "normal",
+			"expression": "serius",
+			"text": "barrera....?"
+		},
+		{
+			"sound": "exmixd",
+			"speed": 0.05,
+			"portrait": "exmixd",
+			"boxState": "normal",
+			"expression": "bruh",
+			"text": "la loca esa siguio los pasos de karate..se drogo a muerte y ps.."
+		},
+		{
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd",
+			"boxState": "normal",
+			"expression": "nervous",
+			"text": "barrera..."
+		},
+		{
+			"sound": "exmixd",
+			"speed": 0.05,
+			"portrait": "exmixd",
+			"boxState": "normal",
+			"expression": "serius",
+			"text": "murio...fue duro por un tiempo pero hay que seguir adelante"
+		},
+		{
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd",
+			"boxState": "normal",
+			"expression": "negative",
+			"text": "oh..."
+		},
+		{
+			"sound": "exmixd",
+			"speed": 0.05,
+			"portrait": "exmixd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "sigamos en lo que estamos antes de que se haga mas tarde"
+		},
+		{
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd",
+			"boxState": "normal",
+			"expression": "negative",
+			"text": "si..tienes razon"
+		}
+	]
+}

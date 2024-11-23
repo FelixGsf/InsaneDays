@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "me `pone feliz q te haya gustado la cancion"
+		},
+		{
+			"sound": "namy",
+			"speed": 0.05,
+			"portrait": "namyd",
+			"boxState": "normal",
+			"expression": "love",
+			"text": "estuvo genial"
+		},
+		{
+			"sound": "namy",
+			"speed": 0.05,
+			"portrait": "namyd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "pero en donde aprendiste a hablar ingles"
+		},
+		{
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd",
+			"boxState": "normal",
+			"expression": "asco",
+			"text": "buena pregunta en realidad"
+		},
+		{
+			"sound": "rayo",
+			"speed": 0.05,
+			"portrait": "rayo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "q sorpresa "
+		},
+		{
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "o pero miren quien esta aqui"
+		},
+		{
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd",
+			"boxState": "normal",
+			"expression": "angry2",
+			"text": "un care chimba q solo sabe abandonar a sus amigos "
+		},
+		{
+			"sound": "rayo",
+			"speed": 0.05,
+			"portrait": "rayo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "entiende q ustedes quisieron meterse en problemas yo solo me salve"
+		},
+		{
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd",
+			"boxState": "normal",
+			"expression": "sad angry",
+			"text": "eres una maldita zorra"
+		},
+		{
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd",
+			"boxState": "normal",
+			"expression": "serius",
+			"text": "y en donde estan los demas\\ntambien los vendiste cierto"
+		},
+		{
+			"sound": "rayo",
+			"speed": 0.05,
+			"portrait": "rayo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "si"
+		},
+		{
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd",
+			"boxState": "normal",
+			"expression": "negative",
+			"text": "lo imaginaba"
+		},
+		{
+			"sound": "rayo",
+			"speed": 0.05,
+			"portrait": "rayo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "una batalla o que zorra"
+		},
+		{
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "si quieres humillarte,entonces empieza"
+		}
+	]
+}
