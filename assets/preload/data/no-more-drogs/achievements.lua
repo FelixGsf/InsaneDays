@@ -1,7 +1,7 @@
 
 local songCompleteAchievement = true
-local songCompleteText = {'cazando al cazaRecompensas', 'Completa la week1', '15', '15', 'FFFFFF', 'FFFFFF'}
-local songCompleteAssets = 'rayo'
+local songCompleteText = {'0 drogas en el infierno!', 'Completa la week11', '15', '15', 'FFFFFF', 'FFFFFF'}
+local songCompleteAssets = 'karate'
 local fcAchievement = false 
 local fcAText = {'xdd', 'xdd', '25', '25', 'FFFFFF', 'FFFFFF'} 
 local fcAAssets = 'SongFC'
@@ -10,13 +10,11 @@ local achievementsOnlyStoryMode = true
 local canGetAchieventifScoreis0 = false
 
 function onCreate()
-
          makeLuaSprite('bgAchievement', 'achievements/bg', 0, 40)
          scaleObject('bgAchievement', 0.75, 0.75)
          setObjectCamera('bgAchievement', 'other')
          setProperty('bgAchievement.alpha', 0) 
          addLuaSprite('bgAchievement',  true)
-
    if songCompleteAchievement == true then
          makeLuaSprite('winA', 'achievements/'..songCompleteAssets..'', 0, 40)
          scaleObject('winA', 0.75, 0.75)
@@ -117,38 +115,3 @@ function onEndSong()
      end
 
 end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

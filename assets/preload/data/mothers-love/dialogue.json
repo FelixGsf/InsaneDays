@@ -1,0 +1,148 @@
+{
+	"dialogue": [
+		{
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "izi pizi"
+		},
+		{
+			"sound": "namy",
+			"speed": 0.05,
+			"portrait": "namyd",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "cuanto falta para llegar"
+		},
+		{
+			"sound": "namy",
+			"speed": 0.05,
+			"portrait": "namyd",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "tengo mucho frio"
+		},
+		{
+			"sound": "exmixd",
+			"speed": 0.05,
+			"portrait": "exmixd",
+			"boxState": "normal",
+			"expression": "serius",
+			"text": "antes de salir te dijimos que si estabas segura de salir con ese traje tan corto"
+		},
+		{
+			"sound": "namy",
+			"speed": 0.05,
+			"portrait": "namyd",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "pero jamas pense q estariamos en un momento asi"
+		},
+		{
+			"sound": "mom",
+			"speed": 0.05,
+			"portrait": "rosed",
+			"boxState": "normal",
+			"expression": "hunt",
+			"text": "veo q no dejaste de practicar en casa de tus abuelos"
+		},
+		{
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd",
+			"boxState": "normal",
+			"expression": "asco",
+			"text": "pues era lo unico q podia hacer mas q ayudar en la casa"
+		},
+		{
+			"sound": "mom",
+			"speed": 0.05,
+			"portrait": "rosed",
+			"boxState": "normal",
+			"expression": "serius",
+			"text": "cosa q jamas hiciste en tu propio hogar "
+		},
+		{
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "porque almenos ellos no me sobrexplotaban como ustedes"
+		},
+		{
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd",
+			"boxState": "normal",
+			"expression": "angry2",
+			"text": "mas q todo mi papa"
+		},
+		{
+			"sound": "mom",
+			"speed": 0.05,
+			"portrait": "rosed",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no voy a negar q tu padre si se pasaba contigo"
+		},
+		{
+			"sound": "mom",
+			"speed": 0.05,
+			"portrait": "rosed",
+			"boxState": "normal",
+			"expression": "serius",
+			"text": "pero entiendenos,nosotros jamas tuvimos una vida como la de los humanos"
+		},
+		{
+			"sound": "cough",
+			"speed": 0.05,
+			"portrait": "exmixd",
+			"boxState": "normal",
+			"expression": "cof",
+			"text": ""
+		},
+		{
+			"sound": "exmixd",
+			"speed": 0.05,
+			"portrait": "exmixd",
+			"boxState": "normal",
+			"expression": "cigarre",
+			"text": "tu familia no es humana"
+		},
+		{
+			"sound": "rayo",
+			"speed": 0.05,
+			"portrait": "rayod",
+			"boxState": "normal",
+			"expression": "talk2",
+			"text": "ya entiedo porque perdiste septimo grado"
+		},
+		{
+			"sound": "rayo",
+			"speed": 0.05,
+			"portrait": "rayod",
+			"boxState": "normal",
+			"expression": "bruh",
+			"text": "a simple vista se ve q NO"
+		},
+		{
+			"sound": "mom",
+			"speed": 0.05,
+			"portrait": "rosed",
+			"boxState": "normal",
+			"expression": "hunt",
+			"text": "bueno, quieres seguir"
+		},
+		{
+			"sound": "felix",
+			"speed": 0.05,
+			"portrait": "felixd",
+			"boxState": "normal",
+			"expression": "serius",
+			"text": "pues q otra eleccion tengo"
+		}
+	]
+}

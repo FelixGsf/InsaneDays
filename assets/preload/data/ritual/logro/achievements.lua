@@ -1,7 +1,7 @@
 
 local songCompleteAchievement = true
-local songCompleteText = {'cazando al cazaRecompensas', 'Completa la week1', '15', '15', 'FFFFFF', 'FFFFFF'}
-local songCompleteAssets = 'rayo'
+local songCompleteText = {'Es hora de dormir', 'Vence a Sammy', '15', '15', 'FFFFFF', 'FFFFFF'}
+local songCompleteAssets = 'sammy'
 local fcAchievement = false 
 local fcAText = {'xdd', 'xdd', '25', '25', 'FFFFFF', 'FFFFFF'} 
 local fcAAssets = 'SongFC'
@@ -106,7 +106,7 @@ function onTimerCompleted(tag, loops, loopsLeft)
 	end
 	if tag == 'EndSong' then
 	allowend = true
-	--endSong()
+	endSong()
 	end
 end
 
@@ -117,38 +117,3 @@ function onEndSong()
      end
 
 end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

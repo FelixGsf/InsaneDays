@@ -1,7 +1,7 @@
 
 local songCompleteAchievement = true
-local songCompleteText = {'cazando al cazaRecompensas', 'Completa la week1', '15', '15', 'FFFFFF', 'FFFFFF'}
-local songCompleteAssets = 'rayo'
+local songCompleteText = {'No me impidiras estar con ella!', 'Completa la week5-Mom', '15', '15', 'FFFFFF', 'FFFFFF'}
+local songCompleteAssets = 'mommy'
 local fcAchievement = false 
 local fcAText = {'xdd', 'xdd', '25', '25', 'FFFFFF', 'FFFFFF'} 
 local fcAAssets = 'SongFC'
@@ -117,38 +117,3 @@ function onEndSong()
      end
 
 end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
