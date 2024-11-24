@@ -41,3 +41,5 @@ de modificar el codigo fuente
 
 * isFemale: esto por si GenderSwarp esta encendido
 * getWeekCompleted('week_name'): esto verifica si una week ya fue completada!
+
+  # ESTE MOD TIENE UNA DURACION APROXIMADA DE 2:30H/ 3H O UN POCO MENOS
